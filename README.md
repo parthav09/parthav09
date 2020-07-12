@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there , I am Parthav Joshi👋
 
-I'm a 18 year old developer who loves to code in python and flutter.
+I'm a 18 year old developer who loves to code in python and flutter💛💙. I also love listening to EDM.
 
 ![Parthav Joshi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthav09&hide=["stars"])
 
