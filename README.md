@@ -4,7 +4,8 @@ I'm a 18 year old developer who loves to code in python and flutter💛💙. I a
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/joshi_parthav?label=Follow&style=social)
 ![Github Followers](https://img.shields.io/github/followers/parthav09?label=Followers&style=social)
-![Spotify Profile](http://img.shields.io/badge/Spotify-Parthavjoshi-green?style=plastic&logo=spotify&??link=https://open.spotify.com/user/w0fhit00a0ijttxxj0uzl3jb0?si=S73uI-apSBqDSKWWvOia2g)
+![Spotify Profile](http://img.shields.io/badge/Spotify-Parthavjoshi-green?style=plastic&logo=spotify&??
+link=spotify:user:w0fhit00a0ijttxxj0uzl3jb0)
 
 
 ![Parthav's github stats](https://github-readme-stats.vercel.app/api?username=parthav09&show_icons=true&theme=tokyonight)
