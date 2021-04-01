@@ -6,7 +6,8 @@ I'm a 18 year old developer who loves to code in python and flutter💛💙. I a
 
 ![Github Followers](https://img.shields.io/github/followers/parthav09?label=Followers&style=social)
 
-![Parthav's github stats](https://github-readme-stats.vercel.app/api?username=parthav09&show_icons=true&theme=tokyonight)
+<img alt="Parthav''s GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=parthavjoshi&hide_border=true&currStreakLabel=000000&ring=316dca&fire=316dca">
+
 
 ## About Me
 - 💻I am currently a student in the field of Computers
