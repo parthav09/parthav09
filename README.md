@@ -6,7 +6,7 @@ I'm a 18 year old developer who loves to code in python and flutter💛💙. I a
 
 ![Github Followers](https://img.shields.io/github/followers/parthav09?label=Followers&style=social)
 
-<img alt="Parthav's GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=parthav09&hide_border=false&currStreakLabel=000000&ring=316dca&fire=316dca">
+<img alt="Parthav's GitHub streak" align="right" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=parthav09&theme=green_nur)](https://git.io/streak-stats)">
 
 
 ## About Me
