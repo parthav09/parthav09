@@ -14,7 +14,6 @@ I'm a 18 year old developer who loves to code in python and flutter💛💙. I a
 - 💡Currently working on some Flutter and Machine learning projects
 
 <img alt="Parthav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=parthav09&&theme=aglolio&&show_icons=true&&hide_border=false&bg_color=1a1b27&icon_color=ff3860&title_color=7957d5&text_color=808080">
-
 <img alt="Parthav's GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=parthav09&hide_border=true&currStreakLabel=000000&ring=316dca&fire=316dca">
 
 <!--
