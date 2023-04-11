@@ -10,8 +10,8 @@ I'm a 20 year old developer who loves to code in python and flutter💛💙. I a
 
 - 🎵I love listening to music.
 
-- 💡Currently working on some Machine learning projects<img 
-- alt="Parthav's GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=parthav09&theme=algolia">
+- 💡Currently working on some Machine learning projects
+<img alt="Parthav's GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=parthav09&theme=algolia">
 
 
 <!--
