@@ -1,6 +1,5 @@
 ### Hi there , I am Parthav Joshi👋
 
-I'm a 20 year old developer who loves to code in python and flutter💛💙. I also love listening to EDM.
 
 ## About Me
 - 💻I am currently a student in the field of Computers
