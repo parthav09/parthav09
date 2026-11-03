@@ -21,13 +21,6 @@ I'm also really interested in **health tech, fitness, and longevity**, especiall
 - 🧠 **Deep Learning & LLMs** - Experimenting with model architectures, training, and real-world applications.
 - 🧬 **Health Tech** - Exploring the intersection of AI, healthcare, and human performance.
 
-## 🧪 Things I've Been Building
-
-- **[Simply](https://github.com/parthav09/Simply)** - Exploring multi-agent simulations and AI-driven decision-making.
-- **[Inference Hub](https://github.com/parthav09/inference-hub)** - Experimenting with LLM inference, caching, and performance.
-- **[Weekwise](https://github.com/parthav09/Weekwise)** - A TypeScript project.
-- **[Arch Build](https://github.com/parthav09/arch_build)** - A Swift project.
-
 ## 🎬 A Little More About Me
 
 When I'm not staring at a terminal...
