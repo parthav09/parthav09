@@ -37,9 +37,7 @@ When I'm not staring at a terminal...
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=parthav09&theme=dark&background=0D1117&ring=7C5CDB&fire=F7476A&currStreakLabel=F7476A&currStreakNum=F7476A&sideNums=7C5CDB&sideLabels=9AA0B4&dates=9AA0B4&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthav09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CDB&icon_color=F7476A&text_color=C9D1D9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthav09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CDB&text_color=C9D1D9)
 
 </div>
 
@@ -48,7 +46,4 @@ When I'm not staring at a terminal...
 <div align="center">
 
 **Curious about everything. Building one thing at a time.**
-
-[Portfolio](https://parthavj.com) · [GitHub](https://github.com/parthav09) · [LinkedIn](https://www.linkedin.com/in/parthav-joshi) · [X](https://x.com/parthav_j) · [Spotify](https://open.spotify.com/user/w0fhit00a0ijttxxj0uzl3jb0)
-
 </div>
