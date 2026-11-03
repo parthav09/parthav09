@@ -1,20 +1,61 @@
-### Hi there , I am Parthav Joshi👋
+# Hey there, I'm Parthav! 👋
 
+### Software Engineer | AI/ML | LLMs & AI Agents
 
-## About Me
-- 💻I am currently a student in the field of Computers
+[![X](https://img.shields.io/badge/Follow-@parthav__j-000000?style=flat&logo=x&logoColor=white)](https://x.com/parthav_j)
+[![Followers](https://img.shields.io/github/followers/parthav09?style=flat&logo=github&label=Followers&color=7C5CDB)](https://github.com/parthav09?tab=followers)
+[![Spotify](https://img.shields.io/badge/Spotify-Parthav-1DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/w0fhit00a0ijttxxj0uzl3jb0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthav-joshi)
+![Profile Views](https://komarev.com/ghpvc/?username=parthav09&color=7C5CDB&style=flat)
 
-- 🎵I love listening to music.
+Howdy! 👋 I'm **Parthav**, a software engineer and AI enthusiast who loves working on **Deep Learning, LLMs, and AI Agents**.
 
-- 💡Currently working on some Machine learning projects
+I'm fascinated by how intelligent systems work, from training models to making them run faster and building applications around them. I love experimenting with new ideas, getting into the engineering behind AI, and turning interesting concepts into things that actually work.
 
-<img alt="Parthav's GitHub streak" align="right" src="http://github-readme-streak-stats.herokuapp.com?user=parthav09&theme=algolia">
+I'm also really interested in **health tech, fitness, and longevity**, especially how technology can help us understand and improve human health.
 
+## 🚀 What I'm Exploring
 
-[![](https://img.shields.io/badge/Kaggle-00599C?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/parthavjoshi/)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parthav-joshi-062a50168/) 
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parthavjoshi1718@gmail.com) &emsp;
+- 🤖 **AI Agents & Multi-Agent Systems** - Building agents that reason, interact, and simulate real-world behavior.
+- ⚡ **LLM Inference Engineering** - Exploring KV caching, efficient serving, and inference optimization.
+- 🧠 **Deep Learning & LLMs** - Experimenting with model architectures, training, and real-world applications.
+- 🧬 **Health Tech** - Exploring the intersection of AI, healthcare, and human performance.
 
-<!--
-**parthav09/parthav09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧪 Things I've Been Building
 
+- **[Simply](https://github.com/parthav09/Simply)** - Exploring multi-agent simulations and AI-driven decision-making.
+- **[Inference Hub](https://github.com/parthav09/inference-hub)** - Experimenting with LLM inference, caching, and performance.
+- **[Weekwise](https://github.com/parthav09/Weekwise)** - A TypeScript project.
+- **[Arch Build](https://github.com/parthav09/arch_build)** - A Swift project.
+
+## 🎬 A Little More About Me
+
+When I'm not staring at a terminal...
+
+- 🍿 **Cinephile** - Absolutely love movies. Great storytelling, cinematography, and films that stay with you long after the credits roll.
+- 🏋️ **Fitness Enthusiast** - Strength training, nutrition, health optimization, and longevity genuinely fascinate me.
+- 🏀 **Sports** - Basketball, badminton, soccer, tennis, you name it.
+- 🌍 **Travel** - Love discovering new places, cultures, food, and experiences.
+- 🧠 **Always Curious** - Psychology, philosophy, human behavior, and understanding how the world works.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=parthav09&theme=dark&background=0D1117&ring=7C5CDB&fire=F7476A&currStreakLabel=F7476A&currStreakNum=F7476A&sideNums=7C5CDB&sideLabels=9AA0B4&dates=9AA0B4&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parthav09&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CDB&icon_color=F7476A&text_color=C9D1D9)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parthav09&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C5CDB&text_color=C9D1D9)
+
+</div>
+
+---
+
+<div align="center">
+
+**Curious about everything. Building one thing at a time.**
+
+[Portfolio](https://parthavj.com) · [GitHub](https://github.com/parthav09) · [LinkedIn](https://www.linkedin.com/in/parthav-joshi) · [X](https://x.com/parthav_j) · [Spotify](https://open.spotify.com/user/w0fhit00a0ijttxxj0uzl3jb0)
+
+</div>
